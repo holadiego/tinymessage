@@ -17,14 +17,12 @@ it's an embedd system base, a raspberry pi with some add elements who help us to
 
 <progress value="80" max="100">
 </progress>
-actual stage: we are working on the v2, working very nice!
+<u>actual stage:</u> we are working on the v2, working very nice!
 
 ## the server
 a linux code base streamming server, wich is hidden in "el merdado de la merced" in mexico city, protected by the people from the mercado. the aim is to have a free speach and a non censurship streamming server
-
-<progress value="90" max="100">
-</progress>
-actual stage: working very nice! and trying to know how many tm we can host and when it will be crashed
+<br>
+<u>actual stage:</u> working very nice! and trying to know how many tm we can host and when it will be crashed
 
 
 ## the plattaform
@@ -33,9 +31,7 @@ it's a webpage wich host:
 <li>basic information (contact + statement + faq)</li>
 <li>menu of all internet stations from the people who has build or has a tm ready to listen (image + name + location + basic information     + podcast result from transmissions)</li>
  <br>
- <progress value="1" max="100">
-</progress>
- actual stage: we need your help!
+<u>actual stage:</u> we need your help!
  
  
 ## Getting Started
