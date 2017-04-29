@@ -3,8 +3,6 @@
 ## what's this tm is about?
 
 <h2>tiny message is an open source, open code and hardware free internet radio station.</h2>
-<br>
-<br>
 3 things at the same time
   — transmissor
   — streamming server
