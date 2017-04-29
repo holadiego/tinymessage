@@ -4,8 +4,7 @@
 <br>
 <h3>tiny message is an open source, code and hardware free internet radio station.</h3>
 <br>
-<br>
-3 things at the same time
+<br> tm is 3 things at the same time
 <li>transmissor</li>
 <li>streamming server</li>
 <li>plattaform</li>
