@@ -40,11 +40,11 @@ you can take a look in http://tinymessage.net/ and download the [tm.pdf](tm.pdf)
 
 ## Contributing
 
-Thanks for your interest in contributing to [PROJECT]! There are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.md).
+Thanks for your interest in contributing to tiny message! There are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Participation Guidelines
 
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [EMAIL].
+This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [info@holadiego.com](info@holadiego.com).
 
 ## MozSprint
 
