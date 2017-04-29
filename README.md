@@ -15,14 +15,13 @@
 ## the transmissor
 it's an embedd system base, a raspberry pi with some add elements who help us to have communication with the context ( wifi and a sound imput) with the streamming server (code) and one direction communication with the plattaform by sending meta data. 
 
-<progress value="80" max="100">
+<progress value="80" max="100"
 </progress>
 <u>actual stage:</u> we are working on the v2, working very nice!
 
 ## the server
 a linux code base streamming server, wich is hidden in "el merdado de la merced" in mexico city, protected by the people from the mercado. the aim is to have a free speach and a non censurship streamming server
 <br>
-
 <u>actual stage:</u> working very nice! and trying to know how many tm we can host and when it will be crashed
 
 
@@ -31,7 +30,7 @@ it's a webpage wich host:
 <li>tutorial that explain step by step of how to make a transmissor (video + text + links + forum)</li>
 <li>basic information (contact + statement + faq)</li>
 <li>menu of all internet stations from the people who has build or has a tm ready to listen (image + name + location + basic information     + podcast result from transmissions)</li>
- <br>
+<br>
 <u>actual stage:</u> we need your help!
  
  
