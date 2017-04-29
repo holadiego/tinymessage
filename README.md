@@ -36,7 +36,7 @@ it's a webpage wich host:
  
  
 ## Getting Started
-you can take a look in http://tinymessage.net/ and download the tm.pdf
+you can take a look in http://tinymessage.net/ and download the [tm.pdf](tm.pdf)
 
 ## Contributing
 
