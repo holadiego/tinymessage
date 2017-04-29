@@ -36,8 +36,7 @@ it's a webpage wich host:
  
  
 ## Getting Started
-
-[ Use this section to orient newcomers to your project on how to use it. Installation or download instructions? Viewing instructions? Example code snippet? Add them here! ]
+you can take a look in http://tinymessage.net/
 
 ## Contributing
 
