@@ -1,12 +1,17 @@
 <img src="http://lowlives.net/tinymessage/images/tm2.jpg">
 ## What's this tm is about?
+
 tiny message is an open source, open code and hardware free internet radio station. 
 
 3 things at the same time
   — transmissor
   — streamming server
   — plattaform
-  
+
+
+
+
+
   <img src="http://lowlives.net/tinymessage/images/tm1.jpg">
   
 ## the transmissor
