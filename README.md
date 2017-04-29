@@ -22,6 +22,7 @@ it's an embedd system base, a raspberry pi with some add elements who help us to
 ## the server
 a linux code base streamming server, wich is hidden in "el merdado de la merced" in mexico city, protected by the people from the mercado. the aim is to have a free speach and a non censurship streamming server
 <br>
+
 <u>actual stage:</u> working very nice! and trying to know how many tm we can host and when it will be crashed
 
 
