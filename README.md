@@ -7,9 +7,9 @@
 <br>
 3 things at the same time
 <br>
-<blockquote>— transmissor</blockquote>
-<blockquote>— streamming server</blockquote>
-<blockquote>— plattaform</blockquote>
+<li>transmissor</li>
+<li>streamming server</li>
+<li>plattaform</li>
 <br>
 <br>
   <img src="http://lowlives.net/tinymessage/images/tm1.jpg">
@@ -27,9 +27,9 @@ actual stage: working very nice! and trying to know how many tm we can host and 
 
 ## the plattaform
 it's a webpage wich host:
- — tutorial that explain step by step of how to make a transmissor (video + text + links + forum)
- — basic information (contact + statement + faq)
- — menu of all internet stations from the people who has build or has a tm ready to listen (image + name + location + basic information     + podcast result from transmissions)
+<li>tutorial that explain step by step of how to make a transmissor (video + text + links + forum)</li>
+<li>basic information (contact + statement + faq)</li>
+<li>menu of all internet stations from the people who has build or has a tm ready to listen (image + name + location + basic information     + podcast result from transmissions)</li>
  
  actual stage: we need your help!
  
