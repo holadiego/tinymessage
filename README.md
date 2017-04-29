@@ -6,7 +6,6 @@
 <br>
 <br>
 3 things at the same time
-
 <li>transmissor</li>
 <li>streamming server</li>
 <li>plattaform</li>
