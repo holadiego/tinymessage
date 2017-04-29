@@ -6,9 +6,9 @@
 <br>
 <br>
 3 things at the same time
-<li>— transmissor</li>
-<li>— streamming server</li>
-<li>— plattaform</li>
+<tab>— transmissor</tab>
+<tab>— streamming server</tab>
+<tab>— plattaform</tab>
 <br>
 <br>
   <img src="http://lowlives.net/tinymessage/images/tm1.jpg">
