@@ -1,5 +1,6 @@
 <img src="http://lowlives.net/tinymessage/images/tm2.jpg">
-## What's this tm is about?
+
+## what's this tm is about?
 
 tiny message is an open source, open code and hardware free internet radio station. 
 
