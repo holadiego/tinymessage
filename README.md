@@ -15,7 +15,7 @@
 ## the transmissor
 it's an embedd system base, a raspberry pi with some add elements who help us to have communication with the context ( wifi and a sound imput) with the streamming server (code) and one direction communication with the plattaform by sending meta data. 
 
-<progress value="80" max="100"
+<progress value="80" max="100">
 </progress>
 <u>actual stage:</u> we are working on the v2, working very nice!
 
