@@ -1,11 +1,34 @@
 <img src="http://lowlives.net/tinymessage/images/tm2.jpg">
+## What's this tm is about?
+tiny message is an open source, open code and hardware free internet radio station. 
 
-[ Do you have a [project vision or mission statement](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/stating-your-project-vision/)? Add it here! Otherwise, add a short descirption of your project.]
+3 things at the same time
+  — transmissor
+  — streamming server
+  — plattaform
+  
+  <img src="http://lowlives.net/tinymessage/images/tm1.jpg">
+  
+## the transmissor
+it's an embedd system base, a raspberry pi with some add elements who help us to have communication with the context ( wifi and a sound imput) with the streamming server (code) and one direction communication with the plattaform by sending meta data. 
 
-[ If you have one, add your logo or an image here ]
+actual stage: we are working on the v2, working very nice!
 
-[ Your longer project description goes here. Use this space to welcome newcomers, articulate the problem you're trying to solve, and explain your solution. For help on writing a good readme, see [this exercise](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/). ]
+## the server
+a linux code base streamming server, wich is hidden in "el merdado de la merced" in mexico city, protected by the people from the mercado. the aim is to have a free speach and a non censurship streamming server
 
+actual stage: working very nice! and trying to know how many tm we can host and when it will be crashed
+
+
+## the plattaform
+it's a webpage wich host:
+ — tutorial that explain step by step of how to make a transmissor (video + text + links + forum)
+ — basic information (contact + statement + faq)
+ — menu of all internet stations from the people who has build or has a tm ready to listen (image + name + location + basic information     + podcast result from transmissions)
+ 
+ actual stage: we need your help!
+ 
+ 
 ## Getting Started
 
 [ Use this section to orient newcomers to your project on how to use it. Installation or download instructions? Viewing instructions? Example code snippet? Add them here! ]
