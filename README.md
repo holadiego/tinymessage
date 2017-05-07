@@ -1,17 +1,18 @@
-<img src="http://lowlives.net/tinymessage/images/tm2.jpg">
+<img src="http://lowlives.net/tinymessage/images/tm2.png">
 
 ## what's this tm is about? 
 <br>
 <h3>tiny message is an open source, code and hardware free internet radio station.</h3>
 <br>
+<img src="http://lowlives.net/tinymessage/images/tm1.jpg">
 <br> tm is 3 things at the same time
 <li>transmissor</li>
 <li>streamming server</li>
 <li>plattaform</li>
 <br>
 <br>
-  <img src="https://github.com/datz/git-test.git">
-  
+
+<img src="http://lowlives.net/tinymessage/images/tm3.jpg">  
 ## the transmissor
 it's an embedd system base, a raspberry pi with some add elements who help us to have communication with the context ( wifi and a sound imput) with the streamming server (code) and one direction communication with the plattaform by sending meta data. 
 
