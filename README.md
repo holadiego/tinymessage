@@ -41,7 +41,7 @@ it's a webpage wich host:
 <li>basic information (contact + statement + faq)</li>
 <li>menu of all internet stations from the people who has build or has a tm ready to listen (image + name + location + basic information     + podcast result from transmissions)</li>
 <br>
-actual stage: __we need your help!__
+actual stage: **we need your help!**
 
 [documentation here](plattaform)
  
