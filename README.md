@@ -13,7 +13,9 @@
 <br>
 
 <img src="http://lowlives.net/tinymessage/images/tm3.png">
+
 ## the transmissor
+<br>
 it's an embedd system base, a raspberry pi with some add elements who help us to have communication with the context ( wifi and a sound imput) with the streamming server (code) and one direction communication with the plattaform by sending meta data. 
 
 <progress value="80" max="100">
