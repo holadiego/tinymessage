@@ -29,7 +29,6 @@ a linux code base streamming server, wich is hidden in "el merdado de la merced"
 
 documentation here
 
-
 ## the plattaform
 it's a webpage wich host:
 <li>tutorial that explain step by step of how to make a transmissor (video + text + links + forum)</li>
