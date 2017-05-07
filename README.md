@@ -10,7 +10,7 @@
 <li>plattaform</li>
 <br>
 <br>
-  <img src="http://lowlives.net/tinymessage/images/tm1.jpg">
+  <img src="https://github.com/datz/git-test.git">
   
 ## the transmissor
 it's an embedd system base, a raspberry pi with some add elements who help us to have communication with the context ( wifi and a sound imput) with the streamming server (code) and one direction communication with the plattaform by sending meta data. 
@@ -19,11 +19,15 @@ it's an embedd system base, a raspberry pi with some add elements who help us to
 </progress>
 <u>actual stage:</u> we are working on the v2, working very nice!
 
+documentation here
+
 ## the server
 a linux code base streamming server, wich is hidden in "el merdado de la merced" in mexico city, protected by the people from the mercado. the aim is to have a free speach and a non censurship streamming server
 <br>
 
 <u>actual stage:</u> working very nice! and trying to know how many tm we can host and when it will be crashed
+
+documentation here
 
 
 ## the plattaform
@@ -34,6 +38,7 @@ it's a webpage wich host:
 <br>
 <u>actual stage:</u> we need your help!
  
+ documentation here
  
 ## Getting Started
 you can take a look in http://tinymessage.net/ and download the [tm.pdf](tm.pdf)
