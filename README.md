@@ -15,14 +15,13 @@
 <img src="http://lowlives.net/tinymessage/images/tm3.png">
 
 ## the transmissor
-<br>
-it's an embedd system base, a raspberry pi with some add elements who help us to have communication with the context ( wifi and a sound imput) with the streamming server (code) and one direction communication with the plattaform by sending meta data. 
+<br>it's an embedd system base, a raspberry pi with some add elements who help us to have communication with the context ( wifi and a sound imput) with the streamming server (code) and one direction communication with the plattaform by sending meta data. 
 
 <progress value="80" max="100">
 </progress>
 <u>actual stage:</u> we are working on the v2, working very nice!
 
-documentation here
+[documentation here](transsmisor)
 
 ## the server
 a linux code base streamming server, wich is hidden in "el merdado de la merced" in mexico city, protected by the people from the mercado. the aim is to have a free speach and a non censurship streamming server
@@ -30,7 +29,7 @@ a linux code base streamming server, wich is hidden in "el merdado de la merced"
 
 <u>actual stage:</u> working very nice! and trying to know how many tm we can host and when it will be crashed
 
-documentation here
+[documentation here](server)
 
 ## the plattaform
 it's a webpage wich host:
@@ -38,9 +37,9 @@ it's a webpage wich host:
 <li>basic information (contact + statement + faq)</li>
 <li>menu of all internet stations from the people who has build or has a tm ready to listen (image + name + location + basic information     + podcast result from transmissions)</li>
 <br>
-<u>actual stage:</u> we need your help!
- 
- documentation here
+<u>actual stage:</u> **we need your help!**
+<br>
+[documentation here](plattaform)
  
 ## Getting Started
 you can take a look in http://tinymessage.net/ and download the [tm.pdf](tm.pdf)
