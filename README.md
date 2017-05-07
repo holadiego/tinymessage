@@ -4,7 +4,7 @@
 <br>
 <h3>tiny message is an open source, code and hardware free internet radio station.</h3>
 <br>
-<img src="http://lowlives.net/tinymessage/images/tm1.jpg">
+<img src="http://lowlives.net/tinymessage/images/tm1.png">
 <br> tm is 3 things at the same time
 <li>transmissor</li>
 <li>streamming server</li>
