@@ -54,6 +54,7 @@ Thanks for your interest in contributing to tiny message! There are many ways to
 
 ## Participation Guidelines
 
+
 This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to info@holadiego.com.
 
 ## MozSprint
