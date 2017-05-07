@@ -21,7 +21,7 @@
 </progress>
 <u>actual stage:</u> we are working on the v2, working very nice!
 
-[documentation here](transsmisor)
+[documentation here](transmissor)
 
 ## the server
 a linux code base streamming server, wich is hidden in "el merdado de la merced" in mexico city, protected by the people from the mercado. the aim is to have a free speach and a non censurship streamming server
