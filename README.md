@@ -2,48 +2,47 @@
 
 ## what's this tm is about? 
 <br>
-<h3>tiny message is an open source, code and hardware free internet radio station.</h3>
+<h3>tiny message is  free, DIY, computerless, open source code and hardware internet radio station.</h3>
 <br>
 <img src="http://lowlives.net/tinymessage/images/tm1.png">
-<br> tm is 3 things at the same time
-<li>transmissor</li>
-<li>streamming server</li>
-<li>plattaform</li>
+<br> tm is 3 things at once
+<li>transmitter</li>
+<li>streaming server</li>
+<li>platform</li>
 <br>
 <br>
 
 <img src="http://lowlives.net/tinymessage/images/tm3.png">
 
-## the transmissor
-<br>it's an embedd system base, a raspberry pi with some add elements who help us to have communication with the context ( wifi and a sound imput) with the streamming server (code) and one direction communication with the plattaform by sending meta data. 
+## the transmitter
+<br>the transmitter is an embedded system base, a raspberry pi including wifi and sound input to interact with the context, code to communicate with the streaming server, as well as meta data for one direction communication with the platform. 
 
-<progress value="80" max="100">
-</progress>
-<u>actual stage:</u> we are working on the v2, working very nice!
 
-[documentation here](transmissor)
+<u>current status:</u>  we are working on v2, and it's coming along great
+
+
+[documentation here](transmitter)
 
 <img src="http://lowlives.net/tinymessage/images/server.png">
 
 ## the server
-a linux code base streamming server, wich is hidden in "el merdado de la merced" in mexico city, protected by the people from the mercado. the aim is to have a free speach and a non censurship streamming server
-<br>
+the server is a linux code streaming server hidden in "el mercado de la merced", mexico city's largest food market. protected by the mercado vendors, the server provides uncensored streaming.<br>
 
-<u>actual stage:</u> working very nice! and trying to know how many tm we can host and when it will be crashed
+<u>current status:</u> working great!, we are currently researching how many tm's can be hosted, as well as preventative measures and protocols for server crashes
 
 [documentation here](Server)
 
 <img src="http://lowlives.net/tinymessage/images/plattaform.png">
 
-## the plattaform
+## the platform
 it's a webpage wich host:
-<li>tutorial that explain step by step of how to make a transmissor (video + text + links + forum)</li>
-<li>basic information (contact + statement + faq)</li>
-<li>menu of all internet stations from the people who has build or has a tm ready to listen (image + name + location + basic information     + podcast result from transmissions)</li>
+<li>— a step by step tutorial on how to make a transmitter (video + text + links + forum)</li>
+<li>— basic information (contact + statement + faq)</li>
+<li>— menu of all internet stations of tm builders and users (image + name + location + basic information + podcast transmissions)</li>
 <br>
-actual stage: **we need your help!**
+current status: **we need your help!**
 
-[documentation here](plattaform)
+[documentation here](platform)
  
 ## Getting Started
 you can take a look in http://tinymessage.net/ and download the [tm.pdf](tm.pdf)
