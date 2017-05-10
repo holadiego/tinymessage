@@ -1,0 +1,35 @@
+# sample DarkIce configuration file, edit for your needs before using
+# see the darkice.cfg man page for details
+
+# this section describes general aspects of the live streaming session
+[general]
+duration        = 0        # duration of encoding, in seconds. 0 means forever
+bufferSecs      = 2         # size of internal slip buffer, in seconds
+reconnect       = yes       # reconnect to the server(s) if disconnected
+
+# this section describes the audio input that will be streamed
+[input]
+device          = hw:1,0  # OSS DSP soundcard device for the audio input
+sampleRate      = 44100     # sample rate in Hz. try 11025, 22050 or 44100
+bitsPerSample   = 16        # bits per sample. try 16
+channel         = 1         # channels. 1 = mono, 2 = stereo
+
+# this section describes a streaming connection to a ShoutCast server
+# there may be up to 8 of these sections, named [shoutcast-0] ... [shoutcast-7]
+# these can be mixed with [icecast-x] and [icecast2-x] sections
+[icecast2-0]
+bitrateMode   	= vbr          	# variable bit rate
+bitrade       	= 320         	# 320 kbit/s
+format        	= mp3      	# format of the stream: mp3
+quality       	= 0.6           	# quality of the stream sent to the server
+server        	= 120.120.6.100	# host name of the server
+port          	= 8000          	# port of the IceCast2 server, usually 8000
+password      	= raDioCCD07	# source password to the IceCast2 server
+mountPoint    	= raspi     	# mount point of this stream on the IceCast2 server
+sampleRate	= 44100
+name            = RasPi         # name of the stream
+genre         	= N/A   	# genre of the stream
+public        	= yes         	# advertise this stream?
+localDumpFile 	= /home/pi/recording.mp3 	# Record also to a file
+fileAddDate 	= yes
+
